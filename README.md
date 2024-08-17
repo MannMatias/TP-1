@@ -1,6 +1,4 @@
-# Trabajo Práctico HTML
-
-Este proyecto consiste en una página web básica construida con HTML. Sigue las instrucciones a continuación para ejecutar el proyecto localmente.
+# Trabajo Práctico 1 HTML
 
 ## Requisitos
 
