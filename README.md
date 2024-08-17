@@ -10,5 +10,5 @@ Este proyecto consiste en una página web básica construida con HTML. Sigue las
 ## Ejecución
 
 1. Clona el repositorio a tu máquina local:
-   bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+   ```bash
+   git clone https://github.com/Saitam1623/TP-1
