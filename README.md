@@ -9,4 +9,4 @@
 
 1. Clona el repositorio a tu máquina local:
    ```bash
-   git clone https://github.com/Saitam1623/TP-1
+   git clone https://github.com/MannMatias/TP-1
