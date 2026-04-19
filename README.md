@@ -20,7 +20,7 @@ Página web estática desarrollada en HTML5 que demuestra el uso de los elemento
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/MannMatias/TP-1
+   git clone https://github.com/MannMatias/html-basic
    ```
 2. Abrir `index.html` en cualquier navegador web moderno.
 
